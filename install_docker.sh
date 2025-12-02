@@ -15,4 +15,4 @@ sudo curl -L "https://github.com/docker/compose/releases/download/${latest_compo
 sudo chmod +x /usr/local/bin/compose
 echo ""
 docker --version
-docker compose --version
+docker compose version
